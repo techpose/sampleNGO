@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://gullakaari.techpose.in/sitemap.xml
